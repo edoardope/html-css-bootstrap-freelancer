@@ -23,3 +23,7 @@
     border: 2px solid black;
     opacity: 1;
 }
+
+p{
+    font-size: 120%;
+}
