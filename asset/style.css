@@ -1,10 +1,10 @@
 .bg-green{
-    background-color: green;
+    background-color: rgba(26,188,156,255);
 }
 
 .avatar{
     width: 30%;
-    background-color: green;
+    background-color: rgba(26,188,156,255);
     border: 0;
 }
 
@@ -26,4 +26,33 @@
 
 p{
     font-size: 120%;
+}
+
+.h200px{
+    height: 200px;
+}
+
+.h80perc{
+    height: 80%;
+}
+
+.form-b{
+    border: 0;
+    border-bottom: 1px solid grey;
+}
+
+.bg-grey{
+    background-color: rgba(58,84,109,255);
+}
+
+.crc{
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: 50%;
+    width: 14%;
+    display: inline-block;
+}
+
+.bg-black{
+    background-color: rgba(44,62,80,255)!important; 
 }
